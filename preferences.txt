@@ -2,4 +2,4 @@ Film: Star Wars
 Serial: Star Treck
 Food: Pizza
 Season: Winter
-Coutry[D[D[Dn[C[C[C[D[D[Dt[C[C[D: USA
+Coutry: USA
